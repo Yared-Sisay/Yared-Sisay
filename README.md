@@ -9,8 +9,6 @@ Hi, I’m Yared — a Flutter developer passionate about building smooth mobile 
   <img src="pupdle_2.png" alt="UI 2" style="height: auto;" />
 </div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yared-Sisay&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)<br/>
-
 🚀 **Project Status:** 90% complete — finalizing deployment and polishing UI for production release.
 
 ## 🌐 Socials:
