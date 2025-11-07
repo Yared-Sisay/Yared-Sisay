@@ -3,9 +3,10 @@
 # 💫 About Me:
 Hi, I’m Yared — a Flutter developer passionate about building smooth mobile experiences.
 
-<div style="display: flex; overflow-x: auto; gap: 10px;">
-  <img src="pupdle_1.png" alt="UI 1"/>
-  <img src="pupdle_2.png" alt="UI 2"/>
+## Current Active Project
+<div style="display: flex; overflow-x: auto; gap: 16px;">
+  <img src="pupdle_1.png" alt="UI 1" style="height: auto;" />
+  <img src="pupdle_2.png" alt="UI 2" style="height: auto;" />
 </div>
 
 ## 🌐 Socials:
