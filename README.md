@@ -3,8 +3,10 @@
 # 💫 About Me:
 Hi, I’m Yared — a Flutter developer passionate about building smooth mobile experiences.
 
-# Active Project
-![UI Preview](pupdle_1.png)
+<div style="display: flex; overflow-x: auto; gap: 10px;">
+  <img src="pupdle_1.png" alt="UI 1"/>
+  <img src="pupdle_2.png" alt="UI 2"/>
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/redd_515) 
