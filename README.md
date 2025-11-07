@@ -12,7 +12,7 @@ Hi, I’m Yared — a Flutter developer passionate about building smooth mobile 
 🚀 **Project Status:** 90% complete — finalizing deployment and polishing UI for production release.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/redd_515) 
+<!--[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/redd_515) -->
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?logo=Telegram&logoColor=white)](https://t.me/Yared_SA)
 
 # 💻 Tech Stack:
