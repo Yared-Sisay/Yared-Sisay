@@ -6,7 +6,7 @@ Hi, I’m Yared — a Flutter developer passionate about building smooth mobile 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/redd_515) 
-[![Telegram]([https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white](https://www.google.com/imgres?q=telegram%20badge&imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-vector%2Fmodern-badge-telegram-icon_578229-156.jpg&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fmodern-badge-telegram-icon_26490551.htm&docid=m1m6fE3uVmk7oM&tbnid=48fEbcYM83AT1M&vet=12ahUKEwjYtPny6eCQAxUF0QIHHQSpKoYQM3oECBwQAA..i&w=626&h=626&hcb=2&ved=2ahUKEwjYtPny6eCQAxUF0QIHHQSpKoYQM3oECBwQAA))](https://t.me/Yared_SA
+[![Telegram](https://www.freepik.com/premium-vector/modern-badge-telegram-icon_26490551.htm)](https://t.me/Yared_SA
 ) 
 
 # 💻 Tech Stack:
