@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-working with flutter firebase stack
+Hi, I’m Yared — a Flutter developer passionate about building smooth mobile experiences.
 
 
 ## 🌐 Socials:
