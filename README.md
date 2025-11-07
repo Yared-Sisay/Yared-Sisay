@@ -28,4 +28,5 @@ Hi, I’m Yared — a Flutter developer passionate about building smooth mobile 
 ---
 [![](https://visitcount.itsvg.in/api?id=Yared-Sisay&icon=2&color=0)](https://visitcount.itsvg.in)
 
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
