@@ -5,8 +5,8 @@ Hi, I’m Yared — a Flutter developer passionate about building smooth mobile 
 
 ## Current Active Project
 <div style="display: flex; overflow-x: auto; gap: 16px;">
-  <img src="Pupdle.png" alt="UI 1" style="height: auto;" />
-  <img src="pupdle2.png" alt="UI 2" style="height: auto;" />
+  <!--img src="Pupdle.png" alt="UI 1" style="height: auto;" /-->
+  <!--img src="pupdle2.png" alt="UI 2" style="height: auto;" /-->
 </div>
 
 🚀 **Project Status:** 90% complete — finalizing deployment and polishing UI for production release.
