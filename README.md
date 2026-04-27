@@ -8,8 +8,7 @@ Hi, I’m Yared — a Flutter developer passionate about building smooth mobile 
   <!--img src="Pupdle.png" alt="UI 1" style="height: auto;" /-->
   <!--img src="pupdle2.png" alt="UI 2" style="height: auto;" /-->
 </div>
-
-🚀 **Project Status:** 90% complete — finalizing deployment and polishing UI for production release.
+<!--🚀 **Project Status:** 90% complete — finalizing deployment and polishing UI for production release.-->
 
 ## 🌐 Socials:
 <!--[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/redd_515) -->
