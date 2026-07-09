@@ -34,15 +34,3 @@ No shortcuts, no *"it works, ship it"* energy. I want to actually **understand**
 ![](https://nirzak-streak-stats.vercel.app/?user=Yared-Sisay&theme=blue_navy&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yared-Sisay&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=Yared-Sisay&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<br/>
-
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Yared-Sisay&icon=2&color=0" /></a>
-</p>
