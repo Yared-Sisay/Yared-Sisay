@@ -2,9 +2,9 @@
 
 <h3 align="center">💫 About Me</h3>
 
-I started out exploring Kotlin and Swift, but chose to specialize in Flutter. I'm developing end-to-end mobile skills — from UI/UX design and architecture to state management, backend integration, and increasingly, AI-powered features that solve real user problems.
+I started out exploring Kotlin, but chose to specialize in Flutter. I'm developing end-to-end mobile skills — from UI/UX design and architecture to state management, backend integration, and increasingly, AI-powered features that solve real peoples problems.
 
-I prioritize understanding over shortcuts, aiming to build a genuine command of Flutter from the ground up.
+I prioritize understanding over shortcuts, aiming to build a genuine Understanding of Mobile Architecture from the ground up.
 
 Building. Learning. Growing with every project. 🚀
 
